@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cchung85
 - 👀 I’m interested in Machine Learning, Deep Learning, Big Data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning distributed learning.
+- 💞️ I’m looking to collaborate on jupyterlab, conda tools.
 - 📫 How to reach me ...
 
 <!---
